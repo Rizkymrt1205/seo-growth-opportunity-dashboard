@@ -1,52 +1,34 @@
-# SEO Growth Opportunity Dashboard
-
-Project structure for organizing data, notebooks, and outputs for SEO analysis.
-
-## Directories
-
-- `data_raw/`: Raw data exports and downloads.
-- `data_clean/`: Cleaned datasets ready for analysis.
-- `notebooks/`: Jupyter notebooks for exploration and visualization.
-- `tableau/`: Tableau workbooks and extracts.
-- `screenshots/`: Output images, dashboard screenshots, and visual artifacts.
-
 # SEO Growth Opportunity Analytics Dashboard
 
+## Project Overview
+Analisis performa SEO untuk mengidentifikasi peluang pertumbuhan berdasarkan keyword ranking, landing page, device, dan location.
+
 ## Business Problem
+Tim marketing membutuhkan dashboard untuk mengetahui keyword, landing page, device, dan location mana yang memiliki peluang optimasi terbesar.
 
-SEO team memiliki ribuan keyword dan kesulitan menentukan prioritas optimasi.
-
-## Objective
-
-Mengidentifikasi keyword dan landing page yang memiliki peluang pertumbuhan tertinggi berdasarkan search performance data.
+## Tools
+- Python
+- Pandas
+- Tableau Public
+- GitHub
 
 ## Dataset
-
 UrbanScape Apparel SEO Performance Dataset
 
-## Methodology
+## Analysis Scope
+1. Executive SEO Performance
+2. Keyword & Ranking Opportunity
+3. Landing Page & Content Performance
+4. Device & Location Performance
 
-- Data Cleaning
-- Opportunity Scoring
-- Keyword Classification
-- Tableau Visualization
+## Key Insights
+- Terdapat 3,549 actionable SEO records yang terdiri dari Quick Wins dan Growth Opportunities.
+- Organic traffic dan revenue tersebar cukup merata di empat landing page utama.
+- Tablet menjadi device dengan performa traffic dan revenue tertinggi.
+- United Kingdom, Germany, dan Canada menjadi lokasi dengan kontribusi revenue SEO paling kuat.
 
-## Key Findings
+## Dashboard Preview
+Masukkan screenshot dashboard di sini.
 
-### Finding 1
-
-Low Priority keywords menghasilkan lebih dari 154 juta impressions.
-
-### Finding 2
-
-Quick Win keywords menghasilkan lebih dari 39 juta impressions dan 7,5 juta revenue.
-
-### Finding 3
-
-Keyword pada posisi 4–10 merupakan kandidat terbaik untuk peningkatan traffic organik.
-
-## Business Recommendation
-
-1. Prioritaskan optimasi keyword kategori Quick Win.
-2. Tingkatkan CTR untuk keyword dengan impression tinggi.
-3. Fokus pada landing page dengan conversion rate tertinggi.
+## Tableau Public Link
+Masukkan link Tableau Public di sini.
